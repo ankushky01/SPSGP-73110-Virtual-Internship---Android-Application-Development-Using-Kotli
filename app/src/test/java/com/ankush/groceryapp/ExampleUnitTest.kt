@@ -1,4 +1,4 @@
-package com.kanaishk.groceryapp
+package com.ankush.groceryapp
 
 import org.junit.Test
 

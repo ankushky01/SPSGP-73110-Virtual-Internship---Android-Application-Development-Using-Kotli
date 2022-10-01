@@ -1,4 +1,4 @@
-package com.kanaishk.groceryapp
+package com.ankush.groceryapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.kanaishk.groceryapp", appContext.packageName)
+        assertEquals("com.ankush.groceryapp", appContext.packageName)
     }
 }

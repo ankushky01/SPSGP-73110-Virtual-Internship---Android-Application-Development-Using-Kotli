@@ -1,4 +1,4 @@
-package com.kanaishk.groceryapp
+package com.ankush.groceryapp
 
 import androidx.lifecycle.LiveData
 import androidx.room.*

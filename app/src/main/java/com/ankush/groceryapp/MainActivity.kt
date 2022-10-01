@@ -1,4 +1,4 @@
-package com.kanaishk.groceryapp
+package com.ankush.groceryapp
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity

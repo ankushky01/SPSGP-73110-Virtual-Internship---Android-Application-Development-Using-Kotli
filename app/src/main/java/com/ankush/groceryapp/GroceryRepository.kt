@@ -1,4 +1,4 @@
-package com.kanaishk.groceryapp
+package com.ankush.groceryapp
 
 class GroceryRepository (private val db:GroceryDatabase) {
 
